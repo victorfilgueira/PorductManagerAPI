@@ -1,0 +1,16 @@
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio cache
+.vs/
+
